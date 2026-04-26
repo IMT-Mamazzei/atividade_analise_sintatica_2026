@@ -6,7 +6,7 @@ O próximo passo é entender se essas palavras formam frases que fazem sentido. 
 
 Os analisadores top-down (ex: descida recursiva, como o nosso) não conseguem lidar com recursão à esquerda (Left Recursion).
 
-Se você não se lembra do que é Recursão à Esquerda e de quais problemas ela pode gerar, faça essa [Revisao de Recursão em notações](RevisaoRecursaoEsquerda)
+Se você não se lembra do que é Recursão à Esquerda e de quais problemas ela pode gerar, faça essa [Revisao de Recursão em notações](RevisaoRecursaoEsquerda.md)
 
 ## A Gramática
 Abaixo está a gramática (em notação EBNF) que rege a nossa Lógica Proposicional:
